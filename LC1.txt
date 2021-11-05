@@ -1,1 +1,56 @@
+*linux is an open source operaating system and portable
+*software that directly manages a system hardware and resources like cpu,memory and storage
+*linux is a case sensitive
+*linux operating system was created by linux charwalls
+                                                     TERMINAL
+->terminal is used to interact with os in linux
+             COMMANDS USED IN LINUX
+=>mkdir-to create a directory
+=>clear-to clear the screen
+=>pwd - present working directory it is used to know in which file we are present
+=>ls-list,list of files in the ssystem
+=>cd-change directory
+=>touch-to create a file
+=>cat-move into file
+=>vi-add data to file
+=>cd ..-go back
+=>cd(space ,enter)-goes to home directory
+=>/-root folder
+=>cd/-to go to root folder
+=>/home/-user related information
+=>/etc/-for storing passwords to know
+                                                    LINUX FILE SYSTEM
+*there are 5 types of linux file system :-1.ext3
+                                         2.ext4
+                                         3.xfs
+                                         4.ntfs
+                                         5.fat
+ EXT3:-
+       ext3 also called as third extended filesystem
+-it is a journaled file system that is commonly used by the linux kernal
+-it is used to be the default filesystem for many popular linux distributions
+-it is developed by stephen tweedie
+ 
+EXT4:-
+       ext4 also called as fourth extended filesystem
+-it was initially a series of backward compatible extensions to ext3
+-many of them originally developed by cluster filesystems for the lustre file system
+-it is developed by mingming cao,andreas dilger,alexa ,others
 
+XFS:-
+     xfs is a high performance 64 bit journaling filesystem
+-it was the default file system in sgis os
+-xfs was ported to the linux kernal
+-it was developed by sillicon graphics
+
+NTFS:-
+      its full form is new technology file system
+-it is a properietry journeling file system
+-it was developed by microsoft
+
+
+FAT:-
+     flate stands for file allocation table
+-it is a file system developed for personal computers
+-file allocation is linked list
+-it was developed by microsfot,ncr,scp,ibm,compaq,digital research,novell,caldera                                        
