@@ -1,0 +1,17 @@
+                                       ROOT PATHCHEATSHEET
+/=root
+/bin=user binaries
+/sbn=system binaries
+/etc=configuration files
+/dev=device files
+/proc=process information
+/var=variable files
+/tmp=temporary files
+/usr=user system resources
+/home=home directiories
+/boot=boot loader files
+/lib=system libraries
+/opt=optional add on apps
+/mnt=mount directory
+/media=removable devices
+/srv=service data
