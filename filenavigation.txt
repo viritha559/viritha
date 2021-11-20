@@ -1,0 +1,32 @@
+                                           FILE NAVIGATION
+DIRECTORY LISTING
+-rw-rw-r--             1             viritha          ashoka      830          nov       8        11:20:00      file1.txt
+    |                  |                |               |          |            |        |           |              |
+    |                  |                |               |          |            |        |           |              |
+    |                  |                |               |          |            |        |           |              |
+represents file     no. of hard        user         group name   no.of bytes   month    date of    time of       file name
+permissions           links                                      occupied      created  the file   the file 
+                       |                |                                               created     created
+                       |                |
+                       |                |
+                   no.of ways to    current owner 
+                     reach          of a file
+  
+
+   -              rw-                       rw-                r--
+   |               |                         |                  |
+   |               |                         |                  |
+file -         user permission       group permission    all other user permission    
+directory d     only read&write       only read&write       only read permission
+link l           permission             permission
+                   |                         |                  |
+                   |                         |                  |
+                   u                         g                  o
+
+
+chmod u-r file name=remove read permission to the user
+chmod u+r file name=add read permission to the user
+chmod g-r file name=remove read permission to the group
+chmod g+r file name=add read permission to the group
+chmod o-r file name=remove read permission to the all other users
+chmod o+r file name=add read permission to the all other users
