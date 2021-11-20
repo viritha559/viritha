@@ -1,0 +1,16 @@
+                                               GIT COMMANDS
+git init=to initialise 
+git status=to check the status 
+git pull url=to pull the data
+git clone=another way to pull data from repository
+git add filename=adding file 
+git commit -m"text"=to commit the data
+git log=it shows who did changes
+git push url=it pushes the data
+git remote add repository=add data to remote repository
+git remote add origin url
+git remote -v=this shows remote repo link in which you have added for push and pull operation
+berfore pushing changes to remote repo we have to do these
+git config --global user.name
+git config --global user.email
+git push origin <local_branch_name>:<remote_branch_name>
